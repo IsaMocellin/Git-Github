@@ -10,4 +10,6 @@ git remote add origin git@github.com:IsaMocellin/repo-local.git | Vincula o repo
 git push -u origin main           | Envia as alterações para o repositório remoto no branch 'main'
 git pull                          | Puxa as alterações do repositório remoto para o repositório local
 git checkout -b teste             | Troca para a branch atual para a branch teste
+git branch                        | Confere quais as branchs ativas
 git branch -v                     | Mostra o último commit de cada branch
+git merge                         | Mescla duas branches para que elas apontem para a mesma mudança
