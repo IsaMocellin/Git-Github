@@ -8,4 +8,5 @@ git commit -m "first commit"      | Faz um commit das alterações com a mensage
 git branch -M main                | Renomeia o ramo principal para 'main'
 git remote add origin git@github.com:IsaMocellin/repo-local.git | Vincula o repositório local com o repositório remoto no GitHub
 git push -u origin main           | Envia as alterações para o repositório remoto no branch 'main'
-git pull                          | Vai puxar as alterações do repositório remoto e puxar para o repositório local
+git pull                          | Puxa as alterações do repositório remoto para o repositório local
+git checkout -b teste             | Troca para a branch atual para a branch teste
