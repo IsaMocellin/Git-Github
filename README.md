@@ -13,7 +13,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 |-------|--------|
 | Gravando Alterações do Repositório Local | [Criando e Alterando](https://github.com/IsaMocellin/repo-local/blob/main/resumos/resumos-aula1.md)|
 | Recuperar Dados Perdidos |[Tipos de Restore e Reset](https://github.com/IsaMocellin/repo-local/blob/main/resumos/resumos-aula2.md)|
-
+| Branch |[Comandos envolvendo Branchs](https://github.com/IsaMocellin/repo-local/blob/main/resumos/resumos-aula3.md)|
+| Stash |[Comandos para Arquivar ou Empilhar](https://github.com/IsaMocellin/repo-local/blob/main/resumos/resumos-aula4.md)|
 
 
 ```
