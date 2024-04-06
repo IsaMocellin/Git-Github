@@ -14,3 +14,4 @@ git branch                        | Confere quais as branchs ativas
 git branch -v                     | Mostra o último commit de cada branch
 git merge                         | Mescla duas branches para que elas apontem para a mesma mudança
 git branch -d teste               | Deleta a branch "teste"
+git fetch origin main             | Informa seu git local que ele deve obter as informações de metadados mais recentes do repositório original
