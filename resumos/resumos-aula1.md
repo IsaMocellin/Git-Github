@@ -13,3 +13,4 @@ git checkout -b teste             | Troca para a branch atual para a branch test
 git branch                        | Confere quais as branchs ativas
 git branch -v                     | Mostra o último commit de cada branch
 git merge                         | Mescla duas branches para que elas apontem para a mesma mudança
+git branch -d teste               | Deleta a branch "teste"
